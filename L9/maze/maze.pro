@@ -12,6 +12,7 @@ LIBS += -L"/home/piotr/Downloads/SFML-2.5.1/lib"
 
 LIBS += -lsfml-audio -lsfml-graphics -lsfml-network -lsfml-system -lsfml-window
 
-DISTFILES +=
+DISTFILES += \
+    model.qmodel
 
 
